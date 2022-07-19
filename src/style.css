@@ -55,7 +55,7 @@ p#curry-house {
 }
 
 #popup {
-    height: 100vh;
+    height: 120vh;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -69,7 +69,7 @@ div#popup-home {
     font-size: 40px;
     color: #ff9207;
     position: absolute;
-    top: 30%;
+    top: 50%;
 }
 
 #popup-home p {
@@ -81,7 +81,7 @@ div#popup-home {
 div#popup-menu{
     visibility: hidden;
     position: absolute;
-    top: 30%;
+    top: 40%;
     height: auto;
 }
 img {
@@ -96,7 +96,7 @@ div#popup-contact {
     text-align: center;
     position: absolute;
     font-size: 3vh;
-    top: 30%;
+    top: 50%;
     padding: 20px 10px;
     border-radius: 10px;
     visibility: hidden;
